@@ -3,7 +3,7 @@
 [Laravel Mix](https://laravel-mix.com/docs/4.0/installation) support plugin for [ExpressionEngine](https://github.com/ExpressionEngine/ExpressionEngine). This plugin will expose a `{exp:mix path='/path/to/asset/file.js'}` tag that works like `mix('/path/to/asset/file.js')`. The tag will then return the asset URL base from the `mix-manifest.json` file.
 
 ## Installation
-1. Download the plugin
+1. Download the [plugin](https://github.com/webteractive/mix/archive/1.0.0.zip)
 2. Extract the downloaded zip file to your ExpressionEngine addons directory (`system/user/addons`)
 3. Login to Admin and goto **Developer** > **Add-Ons** > **Third Party Add-Ons**.
 4. Look for **Laravel Mix** and click **Install**
